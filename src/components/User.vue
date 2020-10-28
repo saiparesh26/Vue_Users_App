@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p class="title is-5 has-text-centered">User Page</p>
+        <p class="title is-5 has-text-centered">Users Page</p>
         <div v-for="user in users" :key="user.id">
             <div class="card" @click="onUserSelected(user.id)">
                 <div class="card-content">

@@ -1,18 +1,18 @@
 <template>
     <div>
-        <p class="title is-5 has-text-centered">User Details</p>
+        <p class="title is-5 has-text-centered ">User Details</p>
         
-            <div class="card" v-if="user">
+            <div class="card has-background-info" v-if="user">
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <p class="title is-4"> {{user.name}} </p>
-                            <p class="subtitle is-6"> {{user.email}} </p>
+                            <p class="title is-4 has-text-white"> {{user.name}} </p>
+                            <p class="subtitle is-6 has-text-white"> {{user.email}} </p>
                         </div>
                     </div>
 
                     <div class="content">
-                        <p class="subtitle is-6"> {{user.contact}} </p>
+                        <p class="subtitle is-6 has-text-white"> {{user.contact}} </p>
                     </div>
                 </div>
             </div>
