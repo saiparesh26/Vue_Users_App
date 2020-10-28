@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Rishav",
+        "email": "rishav@gmail.com",
+        "contact": 9887123365
+    },
+    {
+        "id": 2,
+        "name": "Priyanka",
+        "email": "priyanka@gmail.com",
+        "contact": 9887123365
+    },
+    {
+        "id": 3,
+        "name": "Harshita",
+        "email": "harshita@gmail.com",
+        "contact": 9887123365
+    },
+    {
+        "id": 4,
+        "name": "Jyothirmai",
+        "email": "jyothirmai@gmail.com",
+        "contact": 9887123365
+    },
+    {
+        "id": 5,
+        "name": "Prashant",
+        "email": "prashant@gmail.com",
+        "contact": 9887123365
+    }
+
+]
